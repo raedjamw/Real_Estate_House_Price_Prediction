@@ -17,5 +17,5 @@ A wide range of important concepts in a data science lifecycle are covered such 
 
 
 
-## This project is based off of the following Kaggle competition
+### This project is based off of the following Kaggle competition
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
